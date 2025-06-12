@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sb
 
-caminho_dados = ('D:\\PARTICULAR\\AULAS - KICKSTARTER\\ks-projects-201801.csv')
+caminho_dados = ('ks-projects-201801.csv')
 
 sb.set_theme(style="whitegrid")
 
